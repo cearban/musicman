@@ -1,0 +1,1869 @@
+{
+    "1": {
+        "gig_date": "1999-07-10T00:00:00",
+        "gig_title": "Big Day Out",
+        "gig_lineup": [
+            "Metallica",
+            "Ben Harper",
+            "Creed",
+            "Marilyn Manson",
+            "Mercyful Fate",
+            "Ministry",
+            "Monster Magnet",
+            "Pitchshifter",
+            "Placebo"
+        ],
+        "gig_venue": "The National Bowl",
+        "gig_venue_location_city": "Milton Keynes",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "2": {
+        "gig_date": "1999-12-15T00:00:00",
+        "gig_title": "Machine Head",
+        "gig_lineup": [],
+        "gig_venue": "Barrowland Ballroom",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "3": {
+        "gig_date": "2000-04-21T00:00:00",
+        "gig_title": "earthtone9",
+        "gig_lineup": [
+            "Kill II This",
+            "Linear 77"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "4": {
+        "gig_date": "2000-04-28T00:00:00",
+        "gig_title": "Pantera",
+        "gig_lineup": [
+            "Powerman 5000",
+            "Satyricon"
+        ],
+        "gig_venue": "Barrowland Ballroom",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "5": {
+        "gig_date": "2000-07-03T00:00:00",
+        "gig_title": "Slayer",
+        "gig_lineup": [
+            "Nashville Pussy"
+        ],
+        "gig_venue": "Barrowland Ballroom",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "6": {
+        "gig_date": "2000-09-22T00:00:00",
+        "gig_title": "Pitchshifter",
+        "gig_lineup": [],
+        "gig_venue": "The Venue",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "7": {
+        "gig_date": "2001-12-05T00:00:00",
+        "gig_title": "Nile",
+        "gig_lineup": [
+            "Behemoth",
+            "regorge"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "8": {
+        "gig_date": "2001-12-09T00:00:00",
+        "gig_title": "Devin Townsend",
+        "gig_lineup": [
+            "Godflesh"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "9": {
+        "gig_date": "2001-12-10T00:00:00",
+        "gig_title": "God Forbid",
+        "gig_lineup": [
+            "LabRat"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "10": {
+        "gig_date": "2002-01-06T00:00:00",
+        "gig_title": "Mortician",
+        "gig_lineup": [
+            "Arkhon Infaustus",
+            "Carnal Forge",
+            "Throwswitch",
+            "Yattering"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "11": {
+        "gig_date": "2002-05-07T00:00:00",
+        "gig_title": "The Dillinger Escape Plan",
+        "gig_lineup": [
+            "Nasum",
+            "Sentinex",
+            "Sikth"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "12": {
+        "gig_date": "2002-11-08T00:00:00",
+        "gig_title": "Vacant Stare",
+        "gig_lineup": [
+            "The Blueprint",
+            "This girl",
+            "Tyler"
+        ],
+        "gig_venue": "Studio 24",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "13": {
+        "gig_date": "2002-11-13T00:00:00",
+        "gig_title": "BoySetsFire",
+        "gig_lineup": [
+            "Death By Stereo"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "14": {
+        "gig_date": "2002-11-22T00:00:00",
+        "gig_title": "Roadrunner Roadrage 2002",
+        "gig_lineup": [
+            "Killswitch Engage",
+            "36 Crazyfists",
+            "Five Pointe O"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "15": {
+        "gig_date": "2003-02-21T00:00:00",
+        "gig_title": "The Haunted",
+        "gig_lineup": [
+            "December",
+            "Stampin' Ground"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "16": {
+        "gig_date": "2003-03-18T00:00:00",
+        "gig_title": "Strapping Young Lad",
+        "gig_lineup": [
+            "The Devin Townsend Band",
+            "Zimmers Hole"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "17": {
+        "gig_date": "2003-03-26T00:00:00",
+        "gig_title": "Paradise Lost",
+        "gig_lineup": [
+            "Killing Miranda",
+            "Tapping the Vein"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "18": {
+        "gig_date": "2003-04-30T00:00:00",
+        "gig_title": "Vader",
+        "gig_lineup": [
+            "Arkan",
+            "Arkhon Infaustus",
+            "Pathogen"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "19": {
+        "gig_date": "2003-05-02T00:00:00",
+        "gig_title": "Today Is The Day",
+        "gig_lineup": [],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "20": {
+        "gig_date": "2003-05-07T00:00:00",
+        "gig_title": "Katatonia",
+        "gig_lineup": [
+            "Daylight Dies",
+            "Pornorphans"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "21": {
+        "gig_date": "2003-12-04T00:00:00",
+        "gig_title": "Nile",
+        "gig_lineup": [
+            "Dew-Scented",
+            "Errata",
+            "Misery Index"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "22": {
+        "gig_date": "2003-12-05T00:00:00",
+        "gig_title": "Machine Head",
+        "gig_lineup": [
+            "Breed77",
+            "Sikth"
+        ],
+        "gig_venue": "Barrowland Ballroom",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "23": {
+        "gig_date": "2003-12-12T00:00:00",
+        "gig_title": "The Dillinger Escape Plan",
+        "gig_lineup": [
+            "Beecher",
+            "Cult of Luna"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "24": {
+        "gig_date": "2003-12-16T00:00:00",
+        "gig_title": "Arch Enemy",
+        "gig_lineup": [
+            "Akercocke"
+        ],
+        "gig_venue": "King Tut's Wah Wah Hut",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "25": {
+        "gig_date": "2004-06-19T00:00:00",
+        "gig_title": "Killswitch Engage",
+        "gig_lineup": [
+            "Chimaira",
+            "God Forbid",
+            "Shadows Fall"
+        ],
+        "gig_venue": "Queen Margaret Union",
+        "gig_venue_location_city": "Glasgow, Lanarkshire",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "26": {
+        "gig_date": "2004-07-14T00:00:00",
+        "gig_title": "Orange Goblin",
+        "gig_lineup": [
+            "Grand Magus",
+            "Witchcraft"
+        ],
+        "gig_venue": "Barfly",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "27": {
+        "gig_date": "2004-08-24T00:00:00",
+        "gig_title": "hole in the sky",
+        "gig_lineup": [
+            "Obituary",
+            "Anathema",
+            "Behemoth",
+            "Enslaved",
+            "High on Fire",
+            "Nile",
+            "Opeth",
+            "Sodom",
+            "Tarke"
+        ],
+        "gig_venue": "Garage",
+        "gig_venue_location_city": "Bergen",
+        "gig_venue_location_country": "Norway"
+    },
+    "28": {
+        "gig_date": "2004-12-18T00:00:00",
+        "gig_title": "Neurosis",
+        "gig_lineup": [
+            "Jarboe"
+        ],
+        "gig_venue": "HMV Forum",
+        "gig_venue_location_city": "London",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "29": {
+        "gig_date": "2005-02-09T00:00:00",
+        "gig_title": "Mastodon",
+        "gig_lineup": [
+            "Burst",
+            "Dozer"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "30": {
+        "gig_date": "2005-03-24T00:00:00",
+        "gig_title": "Inferno Festival 2005",
+        "gig_lineup": [
+            "Morbid Angel",
+            "Amon Amarth",
+            "Arcturus",
+            "Aura Noir",
+            "Candlemass",
+            "Chton",
+            "Deceiver",
+            "Dissection",
+            "Gehenna"
+        ],
+        "gig_venue": "Rockefeller",
+        "gig_venue_location_city": "Oslo",
+        "gig_venue_location_country": "Norway"
+    },
+    "31": {
+        "gig_date": "2005-09-03T00:00:00",
+        "gig_title": "Nile",
+        "gig_lineup": [
+            "Incantation"
+        ],
+        "gig_venue": "Liquid Room",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "32": {
+        "gig_date": "2005-09-29T00:00:00",
+        "gig_title": "Arch Enemy",
+        "gig_lineup": [
+            "Dark Tranquillity"
+        ],
+        "gig_venue": "Queen Margaret Union",
+        "gig_venue_location_city": "Glasgow, Lanarkshire",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "33": {
+        "gig_date": "2006-02-09T00:00:00",
+        "gig_title": "Cryptopsy",
+        "gig_lineup": [
+            "Dew-Scented",
+            "Grave"
+        ],
+        "gig_venue": "Soundhaus",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "34": {
+        "gig_date": "2006-03-24T00:00:00",
+        "gig_title": "In Flames",
+        "gig_lineup": [
+            "Dagoba",
+            "Sepultura"
+        ],
+        "gig_venue": "Barrowland Ballroom",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "35": {
+        "gig_date": "2006-04-13T00:00:00",
+        "gig_title": "Inferno Festival 2006",
+        "gig_lineup": [
+            "Emperor",
+            "Battered",
+            "Bloodthorn",
+            "Bolt Thrower",
+            "Borknagar",
+            "Carpathian Forest",
+            "Cathedral",
+            "Demonizer",
+            "Disiplin"
+        ],
+        "gig_venue": "Rockefeller",
+        "gig_venue_location_city": "Oslo",
+        "gig_venue_location_country": "Norway"
+    },
+    "36": {
+        "gig_date": "2006-06-11T00:00:00",
+        "gig_title": "Tool",
+        "gig_lineup": [],
+        "gig_venue": "O2 Academy Glasgow",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "37": {
+        "gig_date": "2006-09-09T00:00:00",
+        "gig_title": "Enslaved",
+        "gig_lineup": [
+            "1349",
+            "Zyklon"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "38": {
+        "gig_date": "2006-09-19T00:00:00",
+        "gig_title": "Satyricon",
+        "gig_lineup": [],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "39": {
+        "gig_date": "2006-11-06T00:00:00",
+        "gig_title": "Opeth",
+        "gig_lineup": [
+            "Paradise Lost"
+        ],
+        "gig_venue": "O2 ABC",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "40": {
+        "gig_date": "2006-11-18T00:00:00",
+        "gig_title": "Capricorns",
+        "gig_lineup": [
+            "Made Out of Babies",
+            "Neurosis"
+        ],
+        "gig_venue": "HMV Forum",
+        "gig_venue_location_city": "London",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "41": {
+        "gig_date": "2007-03-07T00:00:00",
+        "gig_title": "Mastodon",
+        "gig_lineup": [
+            "Saviours"
+        ],
+        "gig_venue": "O2 ABC",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "42": {
+        "gig_date": "2007-04-05T00:00:00",
+        "gig_title": "Inferno Festival 2007",
+        "gig_lineup": [
+            "Anaal Nathrakh",
+            "Blood Tsunami",
+            "Brutal Truth",
+            "Dark Funeral",
+            "D\u00f8dheimsgard",
+            "Fatal Demeanor",
+            "God Dethroned",
+            "Ground Zero System",
+            "Hecate Enthroned"
+        ],
+        "gig_venue": "Rockefeller",
+        "gig_venue_location_city": "Oslo",
+        "gig_venue_location_country": "Norway"
+    },
+    "43": {
+        "gig_date": "2007-04-20T00:00:00",
+        "gig_title": "Roadburn Festival 2007",
+        "gig_lineup": [
+            "Neurosis",
+            "Acid King",
+            "Amenra",
+            "Big Business",
+            "Black Cobra",
+            "Blue Cheer",
+            "Bohren & der Club of Gore",
+            "Causa Sui",
+            "Circle"
+        ],
+        "gig_venue": "013",
+        "gig_venue_location_city": "Tilburg",
+        "gig_venue_location_country": "Netherlands"
+    },
+    "44": {
+        "gig_date": "2007-05-24T00:00:00",
+        "gig_title": "Isis",
+        "gig_lineup": [
+            "Oxbow"
+        ],
+        "gig_venue": "Oran Mor",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "45": {
+        "gig_date": "2007-07-13T00:00:00",
+        "gig_title": "Supersonic 2007",
+        "gig_lineup": [
+            "Bee Stung Lips",
+            "Bela Emerson",
+            "Calvados Beam Trio",
+            "Chrome Hoof",
+            "deadsunrising",
+            "Drop the Lime",
+            "Duracell",
+            "Esquilax",
+            "Fuck Buttons"
+        ],
+        "gig_venue": "Custard Factory",
+        "gig_venue_location_city": "Birmingham",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "46": {
+        "gig_date": "2007-11-16T00:00:00",
+        "gig_title": "Mono",
+        "gig_lineup": [
+            "Jesu"
+        ],
+        "gig_venue": "Oran Mor",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "47": {
+        "gig_date": "2007-11-29T00:00:00",
+        "gig_title": "Amorphis",
+        "gig_lineup": [
+            "Insomnium",
+            "Swallow the Sun"
+        ],
+        "gig_venue": "Klubben/Fryshuset",
+        "gig_venue_location_city": "Stockholm",
+        "gig_venue_location_country": "Sweden"
+    },
+    "48": {
+        "gig_date": "2007-12-13T00:00:00",
+        "gig_title": "High on Fire",
+        "gig_lineup": [
+            "Pelican"
+        ],
+        "gig_venue": "Oran Mor",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "49": {
+        "gig_date": "2008-02-04T00:00:00",
+        "gig_title": "Behemoth",
+        "gig_lineup": [
+            "Suicide Silence"
+        ],
+        "gig_venue": "Barfly",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "50": {
+        "gig_date": "2008-02-06T00:00:00",
+        "gig_title": "Dark Tranquillity",
+        "gig_lineup": [
+            "Evile",
+            "Omnium Gatherum"
+        ],
+        "gig_venue": "Barfly",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "51": {
+        "gig_date": "2008-02-24T00:00:00",
+        "gig_title": "Mayhem",
+        "gig_lineup": [
+            "Dimension FH3"
+        ],
+        "gig_venue": "Ivory Blacks",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "52": {
+        "gig_date": "2008-03-19T00:00:00",
+        "gig_title": "Inferno Metal Festival",
+        "gig_lineup": [
+            "Satyricon",
+            "1349",
+            "Audrey Horne",
+            "Axegressor",
+            "Behemoth",
+            "Benighted",
+            "Burst",
+            "Cor Scorpii",
+            "Cult of Luna"
+        ],
+        "gig_venue": "Rockefeller",
+        "gig_venue_location_city": "Oslo",
+        "gig_venue_location_country": "Norway"
+    },
+    "53": {
+        "gig_date": "2008-04-17T00:00:00",
+        "gig_title": "Roadburn Festival 2008",
+        "gig_lineup": [
+            "Acid Mothers Guru",
+            "\u00c6thenor",
+            "Assemble Head In Sunburst Sound",
+            "Baby Dee",
+            "Baby Woodrose",
+            "Beehoover",
+            "Black Shape of Nexus",
+            "Blood of the Sun",
+            "Boris"
+        ],
+        "gig_venue": "013",
+        "gig_venue_location_city": "Tilburg",
+        "gig_venue_location_country": "Netherlands"
+    },
+    "54": {
+        "gig_date": "2008-05-10T00:00:00",
+        "gig_title": "Anaal Nathrakh",
+        "gig_lineup": [
+            "Anaal Nathrakh",
+            "Dawn of Chaos",
+            "Madman Is Absolute",
+            "Man Must Die"
+        ],
+        "gig_venue": "Barfly",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "55": {
+        "gig_date": "2008-06-17T00:00:00",
+        "gig_title": "Origin",
+        "gig_lineup": [
+            "Hour of Penance",
+            "Impaled"
+        ],
+        "gig_venue": "Ivory Blacks",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "56": {
+        "gig_date": "2008-06-26T00:00:00",
+        "gig_title": "Video Games Live",
+        "gig_lineup": [],
+        "gig_venue": "Royal Concert Hall",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "57": {
+        "gig_date": "2008-09-08T00:00:00",
+        "gig_title": "Meshuggah",
+        "gig_lineup": [
+            "Trigger The Bloodshed"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "58": {
+        "gig_date": "2008-09-18T00:00:00",
+        "gig_title": "Pelican",
+        "gig_lineup": [
+            "Torche"
+        ],
+        "gig_venue": "The Underworld",
+        "gig_venue_location_city": "Camden",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "59": {
+        "gig_date": "2008-09-19T00:00:00",
+        "gig_title": "Ithyphallic Europe Tour 2008",
+        "gig_lineup": [
+            "Nile",
+            "Belphegor",
+            "Grave",
+            ".Omnium Gatherum"
+        ],
+        "gig_venue": "The Underworld",
+        "gig_venue_location_city": "Camden",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "60": {
+        "gig_date": "2008-11-11T00:00:00",
+        "gig_title": "Alba Gu Br\u00e0th",
+        "gig_lineup": [
+            "Audrey Horne",
+            "Enslaved",
+            "Krak\u00f3w"
+        ],
+        "gig_venue": "Ivory Blacks",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "61": {
+        "gig_date": "2008-11-22T00:00:00",
+        "gig_title": "Damnation Festival 2008",
+        "gig_lineup": [
+            "Carcass",
+            "Benediction",
+            "Cathedral",
+            "Desecration",
+            "Devil Sold His Soul",
+            "Latitudes",
+            "Mountains Became Machines",
+            "My Dying Bride",
+            "Napalm Death"
+        ],
+        "gig_venue": "Leeds University",
+        "gig_venue_location_city": "Leeds",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "62": {
+        "gig_date": "2009-04-08T00:00:00",
+        "gig_title": "Inferno Festival 2009",
+        "gig_lineup": [
+            "\u00c5rabrot",
+            "Azarath",
+            "Benea Reach",
+            "Black Comedy",
+            "Blood Red Throne",
+            "Carpathian Forest",
+            "Code",
+            "Deathhammer",
+            "Dew-Scented"
+        ],
+        "gig_venue": "Rockefeller",
+        "gig_venue_location_city": "Oslo",
+        "gig_venue_location_country": "Norway"
+    },
+    "63": {
+        "gig_date": "2009-06-07T00:00:00",
+        "gig_title": "Mastodon",
+        "gig_lineup": [
+            "Take A Worm For A Walk Week",
+            "Valient Thorr"
+        ],
+        "gig_venue": "O2 ABC",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "64": {
+        "gig_date": "2009-07-24T00:00:00",
+        "gig_title": "Capsule Supersonic 2009",
+        "gig_lineup": [
+            "Zu",
+            "65daysofstatic",
+            "Arbouretum",
+            "Army of Flying Robots",
+            "Atomized",
+            "Bobby Previte",
+            "Caribou",
+            "Chris Herbert",
+            "Corrupted"
+        ],
+        "gig_venue": "Custard Factory",
+        "gig_venue_location_city": "Birmingham",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "65": {
+        "gig_date": "2009-08-17T00:00:00",
+        "gig_title": "Pearl Jam",
+        "gig_lineup": [
+            "Gomez"
+        ],
+        "gig_venue": "Manchester Arena",
+        "gig_venue_location_city": "Manchester",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "66": {
+        "gig_date": "2009-10-11T00:00:00",
+        "gig_title": "Progressive Nation 2009",
+        "gig_lineup": [
+            "Dream Theater",
+            "Bigelf",
+            "Opeth",
+            "Unexpect"
+        ],
+        "gig_venue": "S.E.C.C.",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "67": {
+        "gig_date": "2009-12-20T00:00:00",
+        "gig_title": "Finale in Black 2009",
+        "gig_lineup": [
+            "Satyricon",
+            "Dark Fortress",
+            "Posthum",
+            "Shining"
+        ],
+        "gig_venue": "O2 Academy Islington",
+        "gig_venue_location_city": "London",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "68": {
+        "gig_date": "2010-02-18T00:00:00",
+        "gig_title": "Fear Factory",
+        "gig_lineup": [
+            "Sylosis"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "69": {
+        "gig_date": "2010-02-19T00:00:00",
+        "gig_title": "Mastodon",
+        "gig_lineup": [
+            "Totimoshi"
+        ],
+        "gig_venue": "Barrowland Ballroom",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "70": {
+        "gig_date": "2010-03-31T00:00:00",
+        "gig_title": "Inferno Metal Festival",
+        "gig_lineup": [
+            "\u00c5rabrot",
+            "Belphegor",
+            "Benediction",
+            "Blodspor",
+            "Como Muertos",
+            "Death Angel",
+            "Demonic Resurrection",
+            "Destr\u00f6yer 666",
+            "Exumer"
+        ],
+        "gig_venue": "Rockefeller",
+        "gig_venue_location_city": "Oslo",
+        "gig_venue_location_country": "Norway"
+    },
+    "71": {
+        "gig_date": "2010-04-25T00:00:00",
+        "gig_title": "Wodensthrone",
+        "gig_lineup": [
+            "A Forest of Stars",
+            "Haar",
+            "Winterfylleth"
+        ],
+        "gig_venue": "Bannermans",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "72": {
+        "gig_date": "2010-11-06T00:00:00",
+        "gig_title": "Damnation Festival 2010",
+        "gig_lineup": [
+            "Alcest",
+            "Anaal Nathrakh",
+            "Bonesaw",
+            "Colonel Blast",
+            "Diascorium",
+            "Discharge",
+            "earthtone9",
+            "Esoteric",
+            "Fen"
+        ],
+        "gig_venue": "Leeds University Union",
+        "gig_venue_location_city": "Leeds",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "73": {
+        "gig_date": "2010-11-13T00:00:00",
+        "gig_title": "2:54",
+        "gig_lineup": [
+            "Auf Der Maur",
+            "Foumalade",
+            "Teaspoon"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "74": {
+        "gig_date": "2010-11-14T00:00:00",
+        "gig_title": "Total Annihilation Tour 2010",
+        "gig_lineup": [
+            "Annihilator",
+            "Sv\u00f6lk",
+            "Sworn Amongst"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "75": {
+        "gig_date": "2010-11-24T00:00:00",
+        "gig_title": "Motorpsycho",
+        "gig_lineup": [
+            "Elephant9"
+        ],
+        "gig_venue": "Borderline",
+        "gig_venue_location_city": "London",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "76": {
+        "gig_date": "2010-11-27T00:00:00",
+        "gig_title": "AFOS, Acolyte, Haar & Barshasketh",
+        "gig_lineup": [
+            "A Forest of Stars",
+            "Acolyte",
+            "Barshasketh",
+            "Haar"
+        ],
+        "gig_venue": "Bannermans",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "77": {
+        "gig_date": "2010-12-06T00:00:00",
+        "gig_title": "ATP Presents: Neurosis + Daniel Higgs (Lungfish)",
+        "gig_lineup": [
+            "Neurosis",
+            "Daniel Higgs"
+        ],
+        "gig_venue": "Koko",
+        "gig_venue_location_city": "London",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "78": {
+        "gig_date": "2011-01-19T00:00:00",
+        "gig_title": "Latitudes",
+        "gig_lineup": [
+            "Hammers"
+        ],
+        "gig_venue": "Bannermans",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "79": {
+        "gig_date": "2011-01-29T00:00:00",
+        "gig_title": "Eternal Helcaraxe",
+        "gig_lineup": [
+            "Cnocantursa",
+            "Haar",
+            "Old Corpse Road"
+        ],
+        "gig_venue": "Bannermans",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "80": {
+        "gig_date": "2011-02-09T00:00:00",
+        "gig_title": "Kylesa",
+        "gig_lineup": [
+            "Okkultokrati",
+            "What the Blood Revealed"
+        ],
+        "gig_venue": "Ivory Blacks",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "81": {
+        "gig_date": "2011-02-10T00:00:00",
+        "gig_title": "Anathema",
+        "gig_lineup": [
+            "North Atlantic Oscillation"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "82": {
+        "gig_date": "2011-02-21T00:00:00",
+        "gig_title": "Mogwai",
+        "gig_lineup": [
+            "The Twilight Sad"
+        ],
+        "gig_venue": "HMV Picture House",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "83": {
+        "gig_date": "2011-04-05T00:00:00",
+        "gig_title": "Earth",
+        "gig_lineup": [
+            "Sabbath Assembly"
+        ],
+        "gig_venue": "Stereo",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "84": {
+        "gig_date": "2011-04-22T00:00:00",
+        "gig_title": "Circling Above and Within Tour",
+        "gig_lineup": [
+            "Enslaved",
+            "Negur\u0103 Bunget"
+        ],
+        "gig_venue": "The Underworld",
+        "gig_venue_location_city": "Camden",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "85": {
+        "gig_date": "2011-04-23T00:00:00",
+        "gig_title": "Infernal Damnation Fest VIII",
+        "gig_lineup": [
+            "Alcest",
+            "Crom Dubh",
+            "De Profundis",
+            "Dornenreich",
+            "Eastern Front",
+            "Old Corpse Road",
+            "Primitive Graven Image",
+            "Wodensthrone"
+        ],
+        "gig_venue": "The Underworld",
+        "gig_venue_location_city": "Camden",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "86": {
+        "gig_date": "2011-04-29T00:00:00",
+        "gig_title": "Knut",
+        "gig_lineup": [
+            "Keelhaul",
+            "Prelude To The Hunt"
+        ],
+        "gig_venue": "The Banshee Labyrinth",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "87": {
+        "gig_date": "2011-05-19T00:00:00",
+        "gig_title": "earthtone9",
+        "gig_lineup": [
+            "Humanfly",
+            "Maybeshewill",
+            "The Ocean"
+        ],
+        "gig_venue": "Stereo",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "88": {
+        "gig_date": "2011-05-24T00:00:00",
+        "gig_title": "The Ocean",
+        "gig_lineup": [
+            "Breaking The Day",
+            "Lavotchkin"
+        ],
+        "gig_venue": "The Banshee Labyrinth",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "89": {
+        "gig_date": "2011-07-20T00:00:00",
+        "gig_title": "Iron Maiden",
+        "gig_lineup": [
+            "Airbourne"
+        ],
+        "gig_venue": "S.E.C.C.",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "90": {
+        "gig_date": "2011-08-04T00:00:00",
+        "gig_title": "Negative Plane / Ghast / Burial / Barshasketh",
+        "gig_lineup": [
+            "Negative Plane",
+            "Barshasketh",
+            "Burial",
+            "Ghast"
+        ],
+        "gig_venue": "Bannermans",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "91": {
+        "gig_date": "2011-08-11T00:00:00",
+        "gig_title": "Bloodstock Open Air 2011",
+        "gig_lineup": [
+            "1349",
+            "Achilla",
+            "Achren",
+            "Amaranthe",
+            "Angel Witch",
+            "Arthemis",
+            "At the Gates",
+            "Beholder",
+            "Blake"
+        ],
+        "gig_venue": "Catton Hall",
+        "gig_venue_location_city": "Catton",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "92": {
+        "gig_date": "2011-08-24T00:00:00",
+        "gig_title": "Hole in the Sky Bergen Metal Festival XII",
+        "gig_lineup": [
+            "Marduk",
+            "Archgoat",
+            "Black Witchery",
+            "Devil",
+            "Diskord",
+            "Enslaved",
+            "Ghost",
+            "Godflesh",
+            "Grand Magus"
+        ],
+        "gig_venue": "Garage",
+        "gig_venue_location_city": "Bergen",
+        "gig_venue_location_country": "Norway"
+    },
+    "93": {
+        "gig_date": "2011-10-30T00:00:00",
+        "gig_title": "Blood of Christ II",
+        "gig_lineup": [
+            "Altar of Plagues",
+            "+ 1 tbc",
+            "Cnocantursa",
+            "Conan",
+            "Haar",
+            "Headless Kross",
+            "Jackal-Headed Guard Of The Dead",
+            "Solstheim",
+            "Subvertio Deus"
+        ],
+        "gig_venue": "Bannermans",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "94": {
+        "gig_date": "2011-11-05T00:00:00",
+        "gig_title": "Leeds Damnation Festival 2011",
+        "gig_lineup": [
+            "A Forest of Stars",
+            "Altar of Plagues",
+            "Amplifier",
+            "Astrohenge",
+            "Cerebral Bore",
+            "Chthonic",
+            "Conan",
+            "Devin Townsend Project",
+            "Doom"
+        ],
+        "gig_venue": "Leeds University Union",
+        "gig_venue_location_city": "Leeds",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "95": {
+        "gig_date": "2011-11-10T00:00:00",
+        "gig_title": "Heritage Tour - Opeth / Pain of Salvation",
+        "gig_lineup": [
+            "Opeth",
+            "Pain of Salvation"
+        ],
+        "gig_venue": "HMV Picture House",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "96": {
+        "gig_date": "2011-12-16T00:00:00",
+        "gig_title": "Opeth",
+        "gig_lineup": [
+            "Quiet Child"
+        ],
+        "gig_venue": "Enmore Theatre",
+        "gig_venue_location_city": "Enmore",
+        "gig_venue_location_country": "Australia"
+    },
+    "97": {
+        "gig_date": "2012-02-08T00:00:00",
+        "gig_title": "Dream Theater",
+        "gig_lineup": [
+            "Periphery"
+        ],
+        "gig_venue": "Clyde Auditorium",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "98": {
+        "gig_date": "2012-03-08T00:00:00",
+        "gig_title": "Earth",
+        "gig_lineup": [
+            "Mount Eerie",
+            "\u00d4 Paon"
+        ],
+        "gig_venue": "The Caves",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "99": {
+        "gig_date": "2012-04-04T00:00:00",
+        "gig_title": "Inferno Metal Festival 2012",
+        "gig_lineup": [
+            "1349",
+            "Absu",
+            "Aeon Throne",
+            "Agalloch",
+            "Aggravator",
+            "Anaal Nathrakh",
+            "Ancient VVisdom",
+            "Arcturus",
+            "Autopsy"
+        ],
+        "gig_venue": "Rockefeller",
+        "gig_venue_location_city": "Oslo",
+        "gig_venue_location_country": "Norway"
+    },
+    "100": {
+        "gig_date": "2012-05-25T00:00:00",
+        "gig_title": "ATP I'll Be Your Mirror 2012",
+        "gig_lineup": [
+            "Slayer",
+            "Afghan Whigs",
+            "Antoni Maiovvi",
+            "Archers of Loaf",
+            "A Storm of Light",
+            "Balam Acab",
+            "Bill Wells & Aidan Moffat",
+            "Blanck Mass",
+            "Chavez"
+        ],
+        "gig_venue": "Alexandra Palace",
+        "gig_venue_location_city": "London",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "101": {
+        "gig_date": "2012-07-06T00:00:00",
+        "gig_title": "Wode",
+        "gig_lineup": [
+            "Haar",
+            "Run Off With Gypsies",
+            "Solstheim"
+        ],
+        "gig_venue": "The Banshee Labyrinth",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "102": {
+        "gig_date": "2012-07-15T00:00:00",
+        "gig_title": "Kronos Quartet play Sun Rings",
+        "gig_lineup": [
+            "Kronos Quartet",
+            "Terry Riley, composer"
+        ],
+        "gig_venue": "Riverside Museum",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "103": {
+        "gig_date": "2012-07-27T00:00:00",
+        "gig_title": "Wodensthrone",
+        "gig_lineup": [
+            "A Forest of Stars",
+            "Haar",
+            "Maelstrom (Metal)"
+        ],
+        "gig_venue": "Stereo",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "104": {
+        "gig_date": "2012-08-09T00:00:00",
+        "gig_title": "Bloodstock Open Air 2012",
+        "gig_lineup": [
+            "Absolva",
+            "Aethara",
+            "Airstryke",
+            "Alcest",
+            "Alice Cooper",
+            "Anaal Nathrakh",
+            "Ancient Ascendant",
+            "Andraste",
+            "Anvil"
+        ],
+        "gig_venue": "Catton Hall",
+        "gig_venue_location_city": "Catton",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "105": {
+        "gig_date": "2012-11-03T00:00:00",
+        "gig_title": "Damnation Festival 2012",
+        "gig_lineup": [
+            "40 Watt Sun",
+            "Amenra",
+            "Aura Noir",
+            "Belphegor",
+            "Blacklisters",
+            "Bossk",
+            "Devil Sold His Soul",
+            "Electric Wizard",
+            "Extreme Noise Terror"
+        ],
+        "gig_venue": "Leeds University Union",
+        "gig_venue_location_city": "Leeds",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "106": {
+        "gig_date": "2012-11-06T00:00:00",
+        "gig_title": "Gojira",
+        "gig_lineup": [
+            "Klone",
+            "Trepalium"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "107": {
+        "gig_date": "2012-11-13T00:00:00",
+        "gig_title": "Opeth",
+        "gig_lineup": [
+            "Anathema"
+        ],
+        "gig_venue": "O2 ABC",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "108": {
+        "gig_date": "2012-12-02T00:00:00",
+        "gig_title": "Neurosis / Godflesh",
+        "gig_lineup": [
+            "Neurosis",
+            "Godflesh"
+        ],
+        "gig_venue": "HMV Forum",
+        "gig_venue_location_city": "London",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "109": {
+        "gig_date": "2012-12-12T00:00:00",
+        "gig_title": "Dead Ends Of Europe 2012",
+        "gig_lineup": [
+            "Katatonia",
+            "Alcest",
+            "Junius"
+        ],
+        "gig_venue": "The Cathouse",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "110": {
+        "gig_date": "2013-01-19T00:00:00",
+        "gig_title": "Cult of Luna",
+        "gig_lineup": [
+            "Her Name Is Calla",
+            "Humanfly"
+        ],
+        "gig_venue": "Ivory Blacks",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "111": {
+        "gig_date": "2013-04-18T00:00:00",
+        "gig_title": "Roadburn Festival 2013",
+        "gig_lineup": [
+            "Aderlating",
+            "A Forest of Stars",
+            "Alcest",
+            "Amenra",
+            "Antisect",
+            "Ash Borer",
+            "Asphyx",
+            "Astra",
+            "Black Bombaim"
+        ],
+        "gig_venue": "013",
+        "gig_venue_location_city": "Tilburg",
+        "gig_venue_location_country": "Netherlands"
+    },
+    "112": {
+        "gig_date": "2013-08-23T00:00:00",
+        "gig_title": "Candlefest 2013",
+        "gig_lineup": [
+            "Anaal Nathrakh",
+            "Altar of Plagues",
+            "Cnoc An Tursa",
+            "Cold In Berlin",
+            "C R O W N",
+            "Eastern Front",
+            "Falloch",
+            "Hybris",
+            "Kontinuum"
+        ],
+        "gig_venue": "The Underworld",
+        "gig_venue_location_city": "Camden",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "113": {
+        "gig_date": "2013-10-31T00:00:00",
+        "gig_title": "Paradise Lost",
+        "gig_lineup": [
+            "Katatonia",
+            "Lacuna Coil"
+        ],
+        "gig_venue": "O2 ABC",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "114": {
+        "gig_date": "2013-11-02T00:00:00",
+        "gig_title": "Damnation Festival 2013",
+        "gig_lineup": [
+            "Black Magician",
+            "Carcass",
+            "Conan",
+            "Crippled Black Phoenix",
+            "Cult of Luna",
+            "Diamanthian",
+            "Dirge",
+            "Dyscarnate",
+            "God Seed"
+        ],
+        "gig_venue": "Leeds University Union",
+        "gig_venue_location_city": "Leeds",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "115": {
+        "gig_date": "2014-02-01T00:00:00",
+        "gig_title": "Alcest Shelter Tour 2014",
+        "gig_lineup": [
+            "Alcest",
+            "Hexvessel",
+            "The Fauns"
+        ],
+        "gig_venue": "Islington Assembly Hall",
+        "gig_venue_location_city": "London",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "116": {
+        "gig_date": "2014-02-14T00:00:00",
+        "gig_title": "Dream Theater",
+        "gig_lineup": [],
+        "gig_venue": "Wembley Arena",
+        "gig_venue_location_city": "London",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "117": {
+        "gig_date": "2014-04-05T00:00:00",
+        "gig_title": "Negur\u0103 Bunget",
+        "gig_lineup": [
+            "Grimegod",
+            "Haar"
+        ],
+        "gig_venue": "Bannermans",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "118": {
+        "gig_date": "2014-04-10T00:00:00",
+        "gig_title": "Roadburn Festival 2014",
+        "gig_lineup": [
+            "11 PARANOIAS",
+            "16",
+            "40 Watt Sun",
+            "Age of Taurus",
+            "Anciients",
+            "\u00c4nglag\u00e5rd",
+            "Aqua Nebula Oscillator",
+            "ASG",
+            "A Storm of Light"
+        ],
+        "gig_venue": "013",
+        "gig_venue_location_city": "Tilburg",
+        "gig_venue_location_country": "Netherlands"
+    },
+    "119": {
+        "gig_date": "2014-05-10T00:00:00",
+        "gig_title": "Beyond the Redshift",
+        "gig_lineup": [
+            "Cult of Luna",
+            "Abraham",
+            "Amenra",
+            "Amplifier",
+            "Atlantis",
+            "Blueneck",
+            "Bossk",
+            "Canaya",
+            "Dirk Serries"
+        ],
+        "gig_venue": "Various Venues",
+        "gig_venue_location_city": "London",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "120": {
+        "gig_date": "2014-06-13T00:00:00",
+        "gig_title": "The Wildhearts",
+        "gig_lineup": [
+            "Love Zombies"
+        ],
+        "gig_venue": "Studio 24",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "121": {
+        "gig_date": "2014-06-24T00:00:00",
+        "gig_title": "Nile",
+        "gig_lineup": [
+            "Nile",
+            "Scordatura"
+        ],
+        "gig_venue": "Audio",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "122": {
+        "gig_date": "2014-07-06T00:00:00",
+        "gig_title": "Neil Gaiman: The Truth is a Cave in the Black Mountains",
+        "gig_lineup": [
+            "Neil Gaiman",
+            "FourPlay String Quartet"
+        ],
+        "gig_venue": "Usher Hall",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "123": {
+        "gig_date": "2014-07-09T00:00:00",
+        "gig_title": "The Ocean",
+        "gig_lineup": [
+            "Colours to Shame"
+        ],
+        "gig_venue": "Audio",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "124": {
+        "gig_date": "2014-08-05T00:00:00",
+        "gig_title": "Converge",
+        "gig_lineup": [
+            "Martyrd\u00f6d",
+            "Okkultokrati"
+        ],
+        "gig_venue": "The Classic Grand",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "125": {
+        "gig_date": "2014-08-07T00:00:00",
+        "gig_title": "Bloodstock Open Air 2014",
+        "gig_lineup": [
+            "Aaron Keylock",
+            "Abhorrent Decimation",
+            "Aborted",
+            "Aceldama",
+            "Aghast",
+            "Akb'al",
+            "All Consumed",
+            "Alzir",
+            "Amon Amarth"
+        ],
+        "gig_venue": "Catton Hall",
+        "gig_venue_location_city": "Catton",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "126": {
+        "gig_date": "2014-09-06T00:00:00",
+        "gig_title": "YOB",
+        "gig_lineup": [
+            "Buried Sleeper",
+            "Pallbearer"
+        ],
+        "gig_venue": "Audio",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "127": {
+        "gig_date": "2014-10-14T00:00:00",
+        "gig_title": "Opeth",
+        "gig_lineup": [
+            "Alcest"
+        ],
+        "gig_venue": "O2 ABC",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "128": {
+        "gig_date": "2014-11-01T00:00:00",
+        "gig_title": "Haken",
+        "gig_lineup": [
+            "Leprous",
+            "Maschine"
+        ],
+        "gig_venue": "Liquid Room",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "129": {
+        "gig_date": "2014-11-26T00:00:00",
+        "gig_title": "Mastodon",
+        "gig_lineup": [
+            "Big Business",
+            "Krokodil"
+        ],
+        "gig_venue": "O2 Academy Glasgow",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "130": {
+        "gig_date": "2014-12-06T00:00:00",
+        "gig_title": "At War With Reality Tour 2014",
+        "gig_lineup": [
+            "At the Gates",
+            "Morbus Chron",
+            "Triptykon"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "131": {
+        "gig_date": "2014-12-10T00:00:00",
+        "gig_title": "Behemoth & Decapitated",
+        "gig_lineup": [
+            "Behemoth",
+            "Decapitated",
+            "Grand Magus",
+            "Winterfylleth"
+        ],
+        "gig_venue": "O2 ABC",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "132": {
+        "gig_date": "2015-02-05T00:00:00",
+        "gig_title": "'Where Greater Men Have Fallen' UK Tour",
+        "gig_lineup": [
+            "Primordial",
+            "Malthusian",
+            "Winterfylleth"
+        ],
+        "gig_venue": "Audio",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "133": {
+        "gig_date": "2015-02-18T00:00:00",
+        "gig_title": "Omnium Gatherum",
+        "gig_lineup": [
+            "Common Gods",
+            "De Profundis",
+            "Exile The Traitor",
+            "Forsaken World"
+        ],
+        "gig_venue": "Audio",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "134": {
+        "gig_date": "2015-03-20T00:00:00",
+        "gig_title": "The Great Old Ones",
+        "gig_lineup": [
+            "Barshasketh",
+            "Enneract"
+        ],
+        "gig_venue": "The Banshee Labyrinth",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "135": {
+        "gig_date": "2015-03-27T00:00:00",
+        "gig_title": "Video Games Live",
+        "gig_lineup": [],
+        "gig_venue": "Royal Concert Hall",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "136": {
+        "gig_date": "2015-03-30T00:00:00",
+        "gig_title": "Devin Townsend Project",
+        "gig_lineup": [
+            "Periphery",
+            "Shining"
+        ],
+        "gig_venue": "O2 ABC",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "137": {
+        "gig_date": "2015-04-01T00:00:00",
+        "gig_title": "Inferno Metal Festival 2015",
+        "gig_lineup": [
+            "1349",
+            "Ade",
+            "Antichrist",
+            "Arcturus",
+            "Behemoth",
+            "Blodhemn",
+            "Bloodbath",
+            "Crescent",
+            "Deathcult"
+        ],
+        "gig_venue": "Rockefeller",
+        "gig_venue_location_city": "Oslo",
+        "gig_venue_location_country": "Norway"
+    },
+    "138": {
+        "gig_date": "2015-04-19T00:00:00",
+        "gig_title": "Godspeed You! Black Emperor",
+        "gig_lineup": [
+            "Xylouris White"
+        ],
+        "gig_venue": "O2 ABC",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "139": {
+        "gig_date": "2015-04-22T00:00:00",
+        "gig_title": "Kayo Dot",
+        "gig_lineup": [
+            "Botanist",
+            "Enneract"
+        ],
+        "gig_venue": "The Banshee Labyrinth",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "140": {
+        "gig_date": "2015-05-08T00:00:00",
+        "gig_title": "Alcest",
+        "gig_lineup": [
+            "Falloch"
+        ],
+        "gig_venue": "Oran Mor",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "141": {
+        "gig_date": "2015-05-15T00:00:00",
+        "gig_title": "T\u0102U Tour 2015",
+        "gig_lineup": [
+            "Negur\u0103 Bunget",
+            "Agamendon",
+            "Grimegod",
+            "Northern Plague"
+        ],
+        "gig_venue": "Bannermans",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "142": {
+        "gig_date": "2015-08-10T00:00:00",
+        "gig_title": "Agalloch",
+        "gig_lineup": [
+            "C R O W N"
+        ],
+        "gig_venue": "Audio",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "143": {
+        "gig_date": "2015-08-19T00:00:00",
+        "gig_title": "Castle",
+        "gig_lineup": [
+            "SwampheavY",
+            "Witch Ripper"
+        ],
+        "gig_venue": "The Funhouse",
+        "gig_venue_location_city": "Seattle",
+        "gig_venue_location_country": "United States"
+    },
+    "144": {
+        "gig_date": "2015-09-19T00:00:00",
+        "gig_title": "Between the Buried and Me",
+        "gig_lineup": [
+            "Haken"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "145": {
+        "gig_date": "2015-10-01T00:00:00",
+        "gig_title": "Paradise Lost",
+        "gig_lineup": [
+            "Lucifer",
+            "Tribulation"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "146": {
+        "gig_date": "2015-10-14T00:00:00",
+        "gig_title": "Ulcerate",
+        "gig_lineup": [
+            "Bell Witch"
+        ],
+        "gig_venue": "Bannermans",
+        "gig_venue_location_city": "Edinburgh",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "147": {
+        "gig_date": "2015-10-16T00:00:00",
+        "gig_title": "A Forest of Stars",
+        "gig_lineup": [
+            "Ashenspire",
+            "Dune",
+            "Dvne",
+            "Harakiri for the Sky"
+        ],
+        "gig_venue": "Audio",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "148": {
+        "gig_date": "2015-10-24T00:00:00",
+        "gig_title": "Lords of the Land 2015",
+        "gig_lineup": [
+            "Carcass",
+            "Cancerous Womb",
+            "Co-Exist",
+            "Desecration",
+            "Extreme Noise Terror",
+            "Herod",
+            "Man Must Die",
+            "Napalm Death",
+            "Obituary"
+        ],
+        "gig_venue": "Barrowland Ballroom",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "149": {
+        "gig_date": "2015-11-07T00:00:00",
+        "gig_title": "Damnation Festival 2015",
+        "gig_lineup": [
+            "At the Gates",
+            "40 Watt Sun",
+            "Altar of Plagues",
+            "Amenra",
+            "Asphyx",
+            "C R O W N",
+            "Ghold",
+            "High on Fire",
+            "Keep of Kalessin"
+        ],
+        "gig_venue": "Leeds University Union",
+        "gig_venue_location_city": "Leeds",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "150": {
+        "gig_date": "2015-12-12T00:00:00",
+        "gig_title": "Demanufacture 20th Anniversary Tour",
+        "gig_lineup": [
+            "Fear Factory",
+            "Dead Label",
+            "Once Human"
+        ],
+        "gig_venue": "The Garage",
+        "gig_venue_location_city": "Glasgow",
+        "gig_venue_location_country": "United Kingdom"
+    },
+    "151": {
+        "gig_date": "2016-03-19T00:00:00",
+        "gig_title": "Skuggsj\u00e1",
+        "gig_lineup": [
+            "Wardruna",
+            "Enslaved",
+            "Ivar Bj\u00f8rnson & Einar Selvik",
+            "Ivar Bj\u00f8rnson & Einar Selvik's Skuggsj\u00e1",
+            "Skuggsj\u00e1"
+        ],
+        "gig_venue": "The Coronet Theatre",
+        "gig_venue_location_city": "London",
+        "gig_venue_location_country": "United Kingdom"
+    }
+}
